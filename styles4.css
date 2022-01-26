@@ -1,0 +1,32 @@
+header {
+    background-color:#C21E56;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+header img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    float: left;
+}
+nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float: left;
+    padding:5px;          
+}
+.details{
+    width:450px;
+    float:left;
+    padding:10px;        
+}
+footer {
+    background-color:#C21E56;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;      
+}
